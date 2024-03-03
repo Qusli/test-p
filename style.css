@@ -250,7 +250,7 @@ body {
   color: rgb(74, 74, 73);
 }
 .main-top .list__item::before {
-  content: url("/assets/image/main-top/star.svg");
+  content: url("assets/image/main-top/star.svg");
   position: absolute;
   top: 23px;
   left: -23px;
