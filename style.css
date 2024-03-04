@@ -1050,7 +1050,7 @@ body {
     fill: #31A59E;
   }
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 376px) {
   .container {
     max-width: 290px;
   }
